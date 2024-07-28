@@ -1,0 +1,133 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: "Poppins", sans-serif;
+}
+.navbar{
+    overflow: hidden;
+    position: relative;
+    display: flex; /* Use flexbox to align items */
+    justify-content:end; /* Align items to the right */
+    padding-right: 20px;
+}
+.navbar a{
+    text-decoration: none;
+    color:white;
+    padding: 30px 35px;
+    font-size: 20px;
+}
+body{
+    background: linear-gradient(100deg, rgb(193, 117, 193), rgb(56, 17, 56));
+}
+button{
+    background: linear-gradient(#f9d043, #fadf84);
+    font-size:20px;
+    border-radius:10px;
+    margin-left: 50px;
+    height: 40px;
+    margin-top:40px;
+    border:none;
+    padding-left: 20px;
+    padding-right:20px;
+    color:#2A0D37;
+}
+.info1{
+    font-size: 50px;
+    font-weight: bolder;
+    margin-top: 50px;
+    margin-left: 50px;
+    color:gold;
+}
+.info2{
+    color:gold;
+    margin-left:50px;
+    font-size: 30px;
+    font-weight:bold;
+}
+.info3{
+    color:white;
+    margin-left: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    width:50%;
+    line-height: 1.5;
+}
+.img1{
+    float:right;
+    margin-top: -170px;
+}
+.card{
+    height:350px;
+    width:1270px;
+    margin-top: 250px;
+    background-color: #270B35;
+    margin-left: 150px;
+    border-radius: 20px;
+}
+.text{
+    color:#f9d043;
+    padding-top: 20px;
+    padding-left: 40px;
+}
+.text2{
+    color:white;
+    padding-left: 40px;
+    font-size: 25px;
+}
+.information{
+    color:white;
+    margin-left: 150px;
+}
+.child1{
+    background-color:#371E4B;
+    height:420px;
+    width:350px;
+    margin-left:150px;
+    border-radius:30px;
+    margin-right: -15px;
+}
+
+.proj1{
+    border-radius: 20px;
+    width:350px;
+}
+.proj{
+    color: white;
+    margin-left:150px;
+    
+}
+.skill1{
+    margin-left: 150px;
+}
+.empower{
+    color:white;
+    padding-left: 60px;
+}
+.view{
+    margin-left:90px;
+}
+.projects{
+    display: flex;
+
+    
+}
+.description{
+    color:white;
+    padding-left:10px;
+}
+.chat{
+    width:350px;
+    height:150px;
+    border-radius: 20px;
+}
+.myntra{
+    color:white;
+    padding-left: 10px;
+}
+.skill{
+    margin-left:145px;
+}
+.icons{
+    display:flex;
+    margin-left: 50px;
+    margin-top: 20px;
+}
